@@ -1,9 +1,9 @@
 ### Olá Meu nome é Paulo Henrique Ribeiro Pivoto👋
 ### Formação:
-##### - Técnico de Eletrônica com enfase em Equipamentos Médicos
-##### - Engenharia Biomédica pelo Instituto Nacional de Telecomunicações - INATEL
-##### - Pós Graduado em Engenharia Biomédica
-##### - Graduando do 6º Período de Engenharia de Software
+- Técnico de Eletrônica com enfase em Equipamentos Médicos
+- Engenharia Biomédica pelo Instituto Nacional de Telecomunicações - INATEL
+- Pós Graduado em Engenharia Biomédica
+- Graduando do 6º Período de Engenharia de Software
 
 
 
