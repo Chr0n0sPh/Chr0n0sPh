@@ -5,8 +5,7 @@
 - Pós Graduado em Engenharia Biomédica
 - Graduando do 7º Período de Engenharia de Software
 
-![Meus Stats](https://github-readme-stats.vercel.app/api?username=PauloHPivoto&show_icons=true&theme=dracula)
-
+![Meus Stats](https://github-readme-stats.vercel.app/api?username=Chr0n0sPh&show_icons=true&theme=dracula)
 ## Objetivo
 O objetivo deste Perfil é salvar os repositórios criados para as disciplinas do Curso de Graduação em Engenharia de Software do Inatel
 
